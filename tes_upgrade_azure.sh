@@ -15,4 +15,5 @@ service thingserver start
 systemctl stop tomcat
 systemctl status tomcat 
 systemctl start tomcat 
-  
+systemctl status tomcat
+service thingserver status  
