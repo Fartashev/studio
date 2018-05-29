@@ -1,7 +1,9 @@
 #!/bin/bash
 
+###################################################################################################################################
+
 service thingserver stop
-echo -n "What's the Upgrade  Version?  "
+echo -n "What's the Upgrade Version?  "
 read ver
 mkdir /appl/tes_$ver
 cp /home/ftashev/thingserver-8.2.3-b576.zip /appl/tes_$ver
@@ -17,3 +19,5 @@ systemctl status tomcat
 systemctl start tomcat 
 systemctl status tomcat
 service thingserver status  
+
+#######################################################################################################################################
