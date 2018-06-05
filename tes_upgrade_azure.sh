@@ -19,5 +19,10 @@ systemctl status tomcat
 systemctl start tomcat 
 systemctl status tomcat
 service thingserver status  
-
+echo "Testing TES URL"
+###########################################
+curl http://localhost:2019/ExperienceService
+##########################################
+echo "Testing TWX URL"
+curl curl http://localhost:8080
 #######################################################################################################################################
