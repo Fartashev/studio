@@ -4,4 +4,8 @@ log.txt
 =======
 license.bin
 *.zip
+<<<<<<< HEAD
 >>>>>>> 709bcecd95f6c047261e704cb4db469bb43deb88
+=======
+.git_old
+>>>>>>> b83243a2499940689cb2ae612b6a06b2560aec73
