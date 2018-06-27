@@ -1,0 +1,23 @@
+0000000000000000000000000000000000000000 121b6d376bbe3c54d80476e194e6b46e29691bdf Far Tashev <far.com@outlook.com> 1526509463 -0400	commit (initial): Initial commit
+121b6d376bbe3c54d80476e194e6b46e29691bdf 60d4146dac51d92599fd36d5a97c21627da16501 Far Tashev <far.com@outlook.com> 1526510188 -0400	commit: Changes to be committed:
+60d4146dac51d92599fd36d5a97c21627da16501 09fc18ee9e57641c12f4b77d9d6e5a4b1dd3445a Far Tashev <far.com@outlook.com> 1526511304 -0400	commit: added .gitignore
+09fc18ee9e57641c12f4b77d9d6e5a4b1dd3445a 60d4146dac51d92599fd36d5a97c21627da16501 Far Tashev <far.com@outlook.com> 1526511368 -0400	checkout: moving from master to TES
+60d4146dac51d92599fd36d5a97c21627da16501 35b6a788ab52720cf635a77f0e4743f50cc36e1e Far Tashev <far.com@outlook.com> 1526512058 -0400	commit: TEST
+35b6a788ab52720cf635a77f0e4743f50cc36e1e 09fc18ee9e57641c12f4b77d9d6e5a4b1dd3445a Far Tashev <far.com@outlook.com> 1526512103 -0400	checkout: moving from TES to master
+09fc18ee9e57641c12f4b77d9d6e5a4b1dd3445a 262811836d9d3690c44bc5313fd407df69e67ad0 Far Tashev <far.com@outlook.com> 1526512182 -0400	merge TES: Merge made by the 'recursive' strategy.
+262811836d9d3690c44bc5313fd407df69e67ad0 03976d98e0b03333af31c723bf2ec5e158d539ff Far Tashev <far.com@outlook.com> 1527006514 -0400	commit: index2
+03976d98e0b03333af31c723bf2ec5e158d539ff 808c05102de98bad6796c83333df85c74cf86dcf Far Tashev <far.com@outlook.com> 1527006660 -0400	commit: removed folder
+808c05102de98bad6796c83333df85c74cf86dcf 414c7d000fbadce11b40ce61cec57c73e517e465 Far Tashev <far.com@outlook.com> 1527006959 -0400	commit: Removed all files
+414c7d000fbadce11b40ce61cec57c73e517e465 0c3fe84ff07c19f236c3ec72bb2c9c1d3f1a7a07 Far Tashev <far.com@outlook.com> 1527009219 -0400	commit: New file
+0c3fe84ff07c19f236c3ec72bb2c9c1d3f1a7a07 2b7865acfefa6fbec0dd018ebd508e38b92e5faf Far Tashev <far.com@outlook.com> 1527009729 -0400	pull: Fast-forward
+2b7865acfefa6fbec0dd018ebd508e38b92e5faf 894a0dab461af44fd2f405716b27bb9d52c1fcf2 Far Tashev <far.com@outlook.com> 1527024213 -0400	pull: Fast-forward
+894a0dab461af44fd2f405716b27bb9d52c1fcf2 e34f38cb290065e6930752a7825c5ba431e77620 Far Tashev <far.com@outlook.com> 1527024508 -0400	pull: Fast-forward
+e34f38cb290065e6930752a7825c5ba431e77620 35a1a3ab39ec3cd6d77431fb27704c3dc98d71c9 Far Tashev <far.com@outlook.com> 1527024792 -0400	pull: Fast-forward
+35a1a3ab39ec3cd6d77431fb27704c3dc98d71c9 c8dc29737e50a4b33054359ef8d0f4d10d945cfb Far Tashev <far.com@outlook.com> 1527618755 -0400	pull: Fast-forward
+c8dc29737e50a4b33054359ef8d0f4d10d945cfb e682a6314b6942c6b2275b5374f71571775bd31a Far Tashev <far.com@outlook.com> 1528225491 -0400	pull: Fast-forward
+e682a6314b6942c6b2275b5374f71571775bd31a b126e47e8effde483a5e804150263d7fe0cf30d8 Far Tashev <far.com@outlook.com> 1528232899 -0400	commit: Make some changes to the script/updated script. Added URL check
+b126e47e8effde483a5e804150263d7fe0cf30d8 0542e9c292ce97f9c1935969a784cd56b83d3478 Far Tashev <far.com@outlook.com> 1529442803 -0400	commit: Made few changes to the Script
+0542e9c292ce97f9c1935969a784cd56b83d3478 87cbc8c088494cfa1a3fa0a70f30da721484097f Far Tashev <far.com@outlook.com> 1530128530 -0400	commit: Updated the script
+87cbc8c088494cfa1a3fa0a70f30da721484097f 55732f2be9e5c7a549dc841b42b43ecda86d8c27 Far Tashev <far.com@outlook.com> 1530128877 -0400	commit: Initial commit
+55732f2be9e5c7a549dc841b42b43ecda86d8c27 55732f2be9e5c7a549dc841b42b43ecda86d8c27 Far Tashev <far.com@outlook.com> 1530129695 -0400	rebase: checkout refs/remotes/origin/master
+55732f2be9e5c7a549dc841b42b43ecda86d8c27 55732f2be9e5c7a549dc841b42b43ecda86d8c27 Far Tashev <far.com@outlook.com> 1530129696 -0400	rebase finished: returning to refs/heads/master
